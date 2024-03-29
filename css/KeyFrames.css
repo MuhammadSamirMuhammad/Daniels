@@ -1,0 +1,140 @@
+@keyframes Moveanimi{
+    0%{
+        bottom: 100px;
+    }
+    25%{
+        bottom: 30px;
+
+    }
+    50%{
+        bottom: 60px;
+
+    }
+    75%{
+        bottom: 80px;
+
+    }
+    100%{
+        bottom: 50px;
+
+    }
+}
+
+@keyframes hidening{
+    /* 0%{
+     content: " |";
+    } 
+    10%{
+     content: " K|";
+    } 
+    23%{
+     content: " Ke|";
+    } 
+    33%{
+     content: " Ker|";
+    } 
+    44%{
+     content: " Kerr|";
+    } 
+    55%{
+     content: " Kerri|";
+    } 
+    66%{
+     content: " Kerri D|";
+    } 
+    77%{
+     content: " Kerri De|";
+    } 
+    88%{
+     content: " Kerri Deo|";
+    } 
+    100%{
+     content: " Kerri Deo.|";
+    }  */
+
+        
+        0%{
+            content: "|";
+           } 
+           8%{
+            content: " L|";
+           } 
+           16%{
+            content: " La|";
+           } 
+           24%{
+            content: " Lar|";
+           } 
+           32%{
+            content: " Larr|";
+           } 
+           40%{
+            content: " Larry|";
+           } 
+           48%{
+            content: " Larry D|";
+           } 
+           56%{
+            content: " Larry Da|";
+           } 
+           64%{
+            content: " Larry Dan|";
+           } 
+           72%{
+            content: " Larry Dani|";
+           } 
+        80%{
+         content: " Larry Danie|";
+        } 
+        88%{
+         content: " Larry Daniel|";
+        } 
+        96%{
+         content: " Larry Daniels|";
+        } 
+        100%{
+         content: " Larry Daniels.|";
+        } 
+        /* 100%{
+            content: " Designer.|";
+           } 
+           96%{
+            content: " Designer|";
+           } 
+           84%{
+            content: " Designe|";
+           } 
+           72%{
+            content: " Design|";
+           } 
+           60%{
+            content: " Desig|";
+           } 
+    
+        48%{
+         content: " Desi|";
+        } 
+        36%{
+            content: " Des|";
+           }
+           24%{
+            content: "De|";
+           } 
+           12%{
+            content: " D|";
+           } 
+
+        0%{
+            content: "|";
+           }  */
+         
+          
+           
+     
+         
+         
+           
+        
+          
+    
+    }
